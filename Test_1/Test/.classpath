@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/openjdk-15"/>
+	<classpathentry kind="src" path="/Test/src"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/client-combined-3.141.59.jar" sourcepath="/USER_HOME/Desktop/Selen/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="var" path="USER_HOME/Desktop/Selen/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
